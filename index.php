@@ -14,3 +14,4 @@
     <p>CSSの入門</p>
   </body>
 </html>
+<?php echo "see you"; ?>
